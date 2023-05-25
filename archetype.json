@@ -1,0 +1,15 @@
+{
+  "apps": {
+    "azure_react": {
+      "appType": "react",
+      "archType": "csr"
+    },
+    "azure_react_b2c": {
+      "appType": "react",
+      "archType": "csr"
+    }
+  },
+  "packages": {},
+  "packageManager": "yarn",
+  "monorepoWorkspace": "turbo"
+}

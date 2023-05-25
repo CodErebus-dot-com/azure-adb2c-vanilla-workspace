@@ -1,0 +1,14 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "devDependencies": {
+    "js-cookie": "^3.0.5",
+    "jwt-decode": "^3.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
