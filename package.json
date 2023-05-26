@@ -19,5 +19,8 @@
     "apps/*",
     "packages/*",
     "libs/*"
-  ]
+  ],
+  "dependencies": {
+    "netlify-cli": "^15.2.0"
+  }
 }
