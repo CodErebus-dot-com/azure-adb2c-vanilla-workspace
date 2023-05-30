@@ -1,13 +1,11 @@
 {
   "name": "azure_react_b2c",
-  "homepage": "https://CodErebus-dot-com.github.io/azure-adb2c-vanilla-workspace/apps/azure_react_b2c",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "webpack serve --open --mode development --port 4002",
     "bundle": "webpack --mode production",
     "build": "yarn env-var && yarn bundle",
-    "deploy": "gh-pages -d build",
     "start": "cd build && cross-env PORT=4002 serve --cors",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint:fix": "eslint --fix \"src/**/*.{js,jsx,ts,tsx}\"",
