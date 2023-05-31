@@ -1,6 +1,6 @@
 # Turborepo starter
 
-This is an official starter Turborepo. This is supposed to be a test app.
+This is an official starter Turborepo.
 
 ## Using this example
 
