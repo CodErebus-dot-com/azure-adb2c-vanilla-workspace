@@ -7,6 +7,10 @@
     "azure_react_b2c": {
       "appType": "react",
       "archType": "csr"
+    },
+    "azure_react_ssr_b2c": {
+      "appType": "react",
+      "archType": "ssr"
     }
   },
   "packages": {},
