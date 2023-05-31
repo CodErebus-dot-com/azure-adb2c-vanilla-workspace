@@ -16,7 +16,6 @@
     "webpackDev:server": "webpack --config webpack/dev/webpack.dev.server.js",
     "webpackDev:client": "webpack --config webpack/dev/webpack.dev.client.js",
     "buildWatch:dev": "npm-run-all -p startDevWatch:*",
-    "postinstall": "node postinstall.js",
     "port": "cross-env PORT=4003",
     "node-env": "cross-env NODE_ENV=development",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
