@@ -41,6 +41,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "smart-context": "^2.1.2",
+    "npm-run-all": "^4.1.5",
     "@nextui-org/react": "^1.0.0-beta.6"
   },
   "devDependencies": {
@@ -87,7 +88,6 @@
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "2.7.3",
     "nodemon": "^2.0.22",
-    "npm-run-all": "^4.1.5",
     "react-helmet": "^6.1.0",
     "react-helmet-async": "1.0.7",
     "react-refresh": "^0.14.0",
