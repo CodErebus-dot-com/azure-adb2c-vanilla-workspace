@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "pnpm run build:dev",
   "installCommand": "pnpm install",
-  "builds": [
-    {
-      "src": "dist/server.js",
-      "use": "@vercel/node"
-    }
-  ]
+  "devCommand": "pnpm run dev"
 }
