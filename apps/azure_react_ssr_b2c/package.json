@@ -32,6 +32,9 @@
     "not op_mini all",
     "not dead"
   ],
+  "engines": {
+    "node": ">=18.x"
+  },
   "dependencies": {
     "@xt-pagesource/micro-app-loader": "0.1.0",
     "markdown-to-jsx": "^7.1.3",
