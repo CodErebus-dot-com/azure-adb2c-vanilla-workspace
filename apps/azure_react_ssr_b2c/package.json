@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "npm-run-all build:dev server",
+    "dev": "node dist/server",
     "clean": "rimraf dist",
     "build:dev": "npm-run-all clean -p webpackDev:*",
     "build:prod": "npm-run-all clean -p webpackProd:*",
